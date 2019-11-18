@@ -13,3 +13,5 @@ In this format (4-queens):
 1 0 0 0
 
 0 0 1 0
+
+Usage -  python nqueens.py
