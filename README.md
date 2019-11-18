@@ -7,6 +7,9 @@ Output: All solutions for N.
 In this format (4-queens):
 
 0 1 0 0
+
 0 0 0 1
+
 1 0 0 0
+
 0 0 1 0
