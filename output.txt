@@ -1,0 +1,98 @@
+4-Queens:
+
+Enter Size of Board (N): 4
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+
+Solution Number : 1
+0 1 0 0
+0 0 0 1
+1 0 0 0
+0 0 1 0
+
+Solution Number : 2
+0 0 1 0
+1 0 0 0
+0 0 0 1
+0 1 0 0
+
+5-Queens:
+
+Enter Size of Board (N): 5
+0 0 0 0 0
+0 0 0 0 0
+0 0 0 0 0
+0 0 0 0 0
+0 0 0 0 0
+
+Solution Number : 1
+1 0 0 0 0
+0 0 1 0 0
+0 0 0 0 1
+0 1 0 0 0
+0 0 0 1 0
+
+Solution Number : 2
+1 0 0 0 0
+0 0 0 1 0
+0 1 0 0 0
+0 0 0 0 1
+0 0 1 0 0
+
+Solution Number : 3
+0 1 0 0 0
+0 0 0 1 0
+1 0 0 0 0
+0 0 1 0 0
+0 0 0 0 1
+
+Solution Number : 4
+0 1 0 0 0
+0 0 0 0 1
+0 0 1 0 0
+1 0 0 0 0
+0 0 0 1 0
+
+Solution Number : 5
+0 0 1 0 0
+1 0 0 0 0
+0 0 0 1 0
+0 1 0 0 0
+0 0 0 0 1
+
+Solution Number : 6
+0 0 1 0 0
+0 0 0 0 1
+0 1 0 0 0
+0 0 0 1 0
+1 0 0 0 0
+
+Solution Number : 7
+0 0 0 1 0
+1 0 0 0 0
+0 0 1 0 0
+0 0 0 0 1
+0 1 0 0 0
+
+Solution Number : 8
+0 0 0 1 0
+0 1 0 0 0
+0 0 0 0 1
+0 0 1 0 0
+1 0 0 0 0
+
+Solution Number : 9
+0 0 0 0 1
+0 1 0 0 0
+0 0 0 1 0
+1 0 0 0 0
+0 0 1 0 0
+
+Solution Number : 10
+0 0 0 0 1
+0 0 1 0 0
+1 0 0 0 0
+0 0 0 1 0
+0 1 0 0 0
